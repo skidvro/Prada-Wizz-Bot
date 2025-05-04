@@ -25,7 +25,7 @@ It's fast, brutal, and **completely customizable**.
    git clone https://github.com/yourusername/discord-nuke-bot.git
    cd discord-nuke-bot
 
-###⚠️ Disclaimer
+##⚠️ Disclaimer
 This project is for educational and testing purposes only.
 The misuse of this bot can and will result in your account being banned.
 The developer is not responsible for any consequences that result from using this tool.
