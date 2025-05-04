@@ -22,7 +22,7 @@ It's fast, brutal, and **completely customizable**.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/discord-nuke-bot.git
+   git clone https://github.com/skidvro/Prada-Wizz-Bot.git
    cd discord-nuke-bot
 
 # ⚠️ Disclaimer
@@ -31,3 +31,4 @@ The misuse of this bot can and will result in your account being banned.
 The developer is not responsible for any consequences that result from using this tool.
 
 contact @oc1d on discord
+> make sure to change the bot token at the bottom of the code in the file
